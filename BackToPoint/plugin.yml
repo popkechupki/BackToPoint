@@ -1,0 +1,15 @@
+name: BackToPoint
+main: popkechupki\BackToPoint
+version: 0.1
+api: [1.18.0]
+load: POSTWORLD
+author: popkechupki
+web: https://gtihub.com/popkechupki/BackToPoint
+description: "設定した座標にワープできるプラグイン"
+commands:
+ setpoint:
+  description: "テレポート先を設定できます。"
+ point:
+  description: "設定した座標にテレポートします。"
+ delpoint:
+  description: "設定している座標を削除します。"

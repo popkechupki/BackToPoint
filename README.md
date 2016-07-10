@@ -24,4 +24,4 @@ Teleportation plugin for PocketMine-MP.
 - [ ] 座標保存をSqLite3に対応させる
 
 ## その他の配布先
-[pocketmine-forum](https://github.com/ncxx-sl-lab)
+[PM-MP JP Forum](http://forum.pmmp.jp/threads/447)

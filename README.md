@@ -19,5 +19,6 @@ Teleportation plugin for PocketMine-MP.
 5. 二次配布や再配布は禁止しませんが、このプラグインの作成者がpopkechupkiであるとわかるように記載して下さい。
 
 6. popke LICENSEを使用しているプラグインが公式での配布を停止した場合、直ちに使用を中止して下さい。
+
 ## 実装予定
-- [] 座標保存をSqLite3に対応させる
+- [ ] 座標保存をSqLite3に対応させる

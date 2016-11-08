@@ -26,7 +26,7 @@ class BackToPoint extends PluginBase {
 	function onCommand(CommandSender $sender, Command $command, $label, array $args){
 		$user = $sender->getName();
 		if(!$sender instanceof Player) return $this->getLogger()->info("このプラグインのコマンドはゲーム内からのみ実行可能です。");
-		switch (strtolower($command->getName())){
+		switch (strtolower($label)){
 			case 'setpoint':
 				$x = $sender->x;
 				$y = $sender->y;

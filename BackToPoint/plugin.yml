@@ -1,7 +1,7 @@
 name: BackToPoint
 main: popkechupki\BackToPoint
-version: 0.1
-api: [1.18.0]
+version: 0.1.5
+api: [2.0.0]
 load: POSTWORLD
 author: popkechupki
 web: https://gtihub.com/popkechupki/BackToPoint
